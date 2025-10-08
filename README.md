@@ -1,6 +1,6 @@
 # SQL-Based Bank Account Management System
 
-A comprehensive MySQL-based application for managing bank customer accounts, transactions, and core operations using robust stored procedures and normalized database design.
+A comprehensive MySQL-based application for managing bank customer accounts, transactions, and core operations using robust stored procedures and normalized database design
 
 ## Project Overview
 
